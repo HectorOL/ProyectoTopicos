@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "TopicosTema2/lib/jcommon-1.0.23.jar",
+        "TopicosTema2/lib/jfreechart-1.0.19.jar",
+        "TopicosTema2/lib/orsonpdf-1.9.1.jar"
+    ]
+}
